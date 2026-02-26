@@ -1,0 +1,75 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.pnpm-debug.log*
+
+# Diagnostic reports (https://nodejs.org/api/report.html)
+.report/
+*.diag
+
+# Node.js
+# Research: https://github.com/github/gitignore/blob/main/Node.gitignore
+node_modules/
+dist/
+dist-ssr/
+*.local
+build/
+coverage/
+.next/
+.nuxt/
+.vercel/
+.changeset/
+.turbo/
+*.wasm
+.eslintcache
+.vite-press/dist
+
+# Editor directories and files
+.idea/
+.vscode/
+*.suo
+*.ntvs
+*.njsproj
+*.sln
+*.sw?
+
+# Environments
+.env
+.env*.local
+.env.*.local
+.env*.development
+.env*.test
+.env*.production
+
+# Uploads
+uploads/
+
+# Packages
+*.jar
+*.war
+*.ear
+*.zip
+*.tar
+*.gz
+*.rar
+
+# IDEs and other system files
+.DS_Store
+Thumbs.db
+
+# Gemini CLI temporary directories
+.gemini/tmp/
+
+# Package manager lock files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Added for the exercises
+01-js-ts-foundations/node_modules
+02-git-quiz/node_modules
+03-cypress-test/node_modules
