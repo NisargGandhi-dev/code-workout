@@ -6,7 +6,8 @@ This is a hands-on test to check your knowledge of fundamental Cypress commands.
 
 1.  **Open the `cypress-exercises.js` file.**
 2.  **Fill in the empty strings** for each variable with the correct Cypress command that accomplishes the task described in the comment.
-3.  **Run the tests** to see if your answers are correct.
+3.  **Important:** You should run the test file only once the file has been completed and you are not allowed to check logs of tests. Checking test logs will directly reveal the answers.
+4.  **Run the tests** to see if your answers are correct.
 
 ## How to Run the Test
 

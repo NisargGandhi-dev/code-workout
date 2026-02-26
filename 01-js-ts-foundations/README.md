@@ -32,7 +32,7 @@ Welcome to the JavaScript & TypeScript Foundations Exercises! This repository co
 
 ## The Challenge
 
-Your task is to implement the functions in the `topics/` directory. Each file in `topics/` contains a function signature and a description of what needs to be implemented. Once you've implemented a function, run its corresponding test file in `tests/` to verify your solution.
+Your task is to implement the functions in the `topics/` directory. Each file in `topics/` contains a function signature and a description of what needs to be implemented. **Important:** You should run the test file only once the file has been completed and you are not allowed to check logs of tests. Checking test logs will directly reveal the answers. Once you've implemented a function, run its corresponding test file in `tests/` to verify your solution.
 
 ## Problems (Easy to Hard)
 
