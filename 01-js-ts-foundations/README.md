@@ -12,6 +12,8 @@ Welcome to the JavaScript & TypeScript Foundations Exercises! This repository co
 
 2.  **Install dependencies:**
 
+    First, make sure you have the dependencies installed. If you don't see a `node_modules` folder in this directory, run `npm install`:
+
     ```bash
     npm install
     ```
